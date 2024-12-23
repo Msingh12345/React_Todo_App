@@ -1,5 +1,5 @@
 function TodoItem2() {
-    let todoName = "Go to College";
+    let todoName = "Go to School";
     let todoDate = "4/10/2023";
   
     return (
